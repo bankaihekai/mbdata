@@ -1,16 +1,6 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "John Doe",
-      "email": "john@example.com"
-    },
-    {
-      "id": 2,
-      "name": "John Doe",
-      "email": "john@example.com"
-    },
-    {
       "id": 3,
       "level": {
         "current": 1,
