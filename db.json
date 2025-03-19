@@ -9,6 +9,47 @@
       "id": 2,
       "name": "John Doe",
       "email": "john@example.com"
+    },
+    {
+      "id": 3,
+      "level": {
+        "current": 1,
+        "experience": 0,
+        "points": 0
+      },
+      "kdStats": {
+        "createdDate": "3/19/2025",
+        "win": 0,
+        "lose": 0
+      },
+      "name": "test",
+      "gender": "male",
+      "bodyFrame": 88,
+      "hair": {
+        "number": 1,
+        "frame": 308
+      },
+      "basicAttire": 0,
+      "utilities": {
+        "skills": [
+          54
+        ],
+        "weapons": [],
+        "pets": []
+      },
+      "attributes": {
+        "life": 60,
+        "damage": 1,
+        "agile": 11,
+        "speed": 1,
+        "armor": 0
+      },
+      "psd": "U2FsdGVkX1/orx0lQzuonT8xFXANUukjjKXnjQXpdac=",
+      "logs": {
+        "utility": [
+          "<tr><td>1</td><td>Acquired <b>\"Surge Of Agile\"</b> and Increase <b>\"agile\"</b> <br>Life: 60, Damage: 1, Agile: 11, Speed: 1</td><td>3/19/2025</td></tr>"
+        ]
+      }
     }
   ]
 }
