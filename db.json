@@ -40,6 +40,47 @@
           "<tr><td>1</td><td>Acquired <b>\"Surge Of Agile\"</b> and Increase <b>\"agile\"</b> <br>Life: 60, Damage: 1, Agile: 11, Speed: 1</td><td>3/19/2025</td></tr>"
         ]
       }
+    },
+    {
+      "id": 2,
+      "level": {
+        "current": 1,
+        "experience": 0,
+        "points": 0
+      },
+      "kdStats": {
+        "createdDate": "3/28/2025",
+        "win": 0,
+        "lose": 0
+      },
+      "name": "esh",
+      "gender": "female",
+      "bodyFrame": 88,
+      "hair": {
+        "number": 4,
+        "frame": 264
+      },
+      "basicAttire": 0,
+      "utilities": {
+        "skills": [
+          21
+        ],
+        "weapons": [],
+        "pets": []
+      },
+      "attributes": {
+        "life": 60,
+        "damage": 1,
+        "agile": 1,
+        "speed": 2,
+        "armor": 0
+      },
+      "psd": "U2FsdGVkX1+GZmYBR7uCNYwIkAgIacmQE9AUzdoQyEk=",
+      "logs": {
+        "utility": [
+          "<tr><td>1</td><td>Acquired <b>\"Strong Bite\"</b> and Increase <b>\"speed\"</b> <br>Life: 60, Damage: 1, Agile: 1, Speed: 2</td><td>3/28/2025</td></tr>"
+        ]
+      }
     }
   ]
 }
