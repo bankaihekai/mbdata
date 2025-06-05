@@ -81,6 +81,60 @@
           "<tr><td>1</td><td>Acquired <b>\"Strong Bite\"</b> and Increase <b>\"speed\"</b> <br>Life: 60, Damage: 1, Agile: 1, Speed: 2</td><td>3/28/2025</td></tr>"
         ]
       }
+    },
+    {
+      "id": 3,
+      "level": {
+        "current": 1,
+        "experience": 0,
+        "points": 0
+      },
+      "kdStats": {
+        "createdDate": "6/1/2025",
+        "win": 0,
+        "lose": 0
+      },
+      "name": "teste",
+      "gender": "male",
+      "bodyFrame": 0,
+      "hair": {
+        "number": 2,
+        "frame": 44
+      },
+      "basicAttire": 88,
+      "utilities": {
+        "skills": [],
+        "weapons": [],
+        "pets": [
+          {
+            "name": "Rat",
+            "types": "A",
+            "level": 1,
+            "life": 10,
+            "damage": 7,
+            "agile": 8,
+            "speed": 7,
+            "armor": 0,
+            "comboRate": 110,
+            "dodge": 5,
+            "accuracy": 80
+          }
+        ]
+      },
+      "attributes": {
+        "life": 59,
+        "damage": 1,
+        "agile": 2,
+        "speed": 1,
+        "armor": 1
+      },
+      "armorName": "",
+      "psd": "U2FsdGVkX1+bjmRKPzI3IlsVkLpTL6e85yPJtCOtqbQ=",
+      "logs": {
+        "utility": [
+          "<tr><td>1</td><td><b>Pet</b> -> lvl up to <b>\"1 \"</b><br>Life: 10, Damage: 7, Agile: 8, Speed: 7, Armor: 0<br><b>Character</b> -> Increase <b>\"agile\"</b><br> Life: 59, Damage: 1, Agile: 2, Speed: 1, Armor: 1</td><td>6/1/2025</td></tr>"
+        ]
+      }
     }
   ]
 }
