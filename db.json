@@ -94,48 +94,6 @@
           "<tr><td>1</td><td><b>Pet</b> -> lvl up to <b>\"1 \"</b><br>Life: 10, Damage: 7, Agile: 8, Speed: 7, Armor: 0<br><b>Character</b> -> Increase <b>\"agile\"</b><br> Life: 59, Damage: 1, Agile: 2, Speed: 1, Armor: 1</td><td>6/1/2025</td></tr>"
         ]
       }
-    },
-    {
-      "id": 3,
-      "level": {
-        "current": 1,
-        "experience": 0,
-        "points": 0
-      },
-      "kdStats": {
-        "createdDate": "6/6/2025",
-        "win": 0,
-        "lose": 0
-      },
-      "name": "assd",
-      "gender": "male",
-      "bodyFrame": 132,
-      "hair": {
-        "number": 2,
-        "frame": 88
-      },
-      "basicAttire": 88,
-      "utilities": {
-        "skills": [
-          54
-        ],
-        "weapons": [],
-        "pets": []
-      },
-      "attributes": {
-        "life": 65,
-        "damage": 1,
-        "agile": 8,
-        "speed": 1,
-        "armor": 1
-      },
-      "armorName": "",
-      "psd": "U2FsdGVkX19LROeQxwWtDFPHsjIri8/LV0l6VaYtdxo=",
-      "logs": {
-        "utility": [
-          "<tr><td>1</td><td>Acquired <b>\"Surge Of Agile\"</b> and <br><b>Character</b> -> Increase <b>\"life\"</b><br> Life: 65, Damage: 1, Agile: 8, Speed: 1, Armor: 1</td><td>6/6/2025</td></tr>"
-        ]
-      }
     }
   ]
 }
