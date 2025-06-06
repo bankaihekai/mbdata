@@ -42,9 +42,9 @@
       "attributes": {
         "life": 54,
         "damage": 2,
-        "agile": 1,
-        "speed": 1,
-        "armor": 1
+        "agile": 2,
+        "speed": 2,
+        "armor": 0
       },
       "armorName": "",
       "psd": "U2FsdGVkX18Kc3+6UeJwGaEhRQar0LS8/5ASiwdM2Uo=",
